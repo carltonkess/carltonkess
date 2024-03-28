@@ -1,7 +1,7 @@
-Hello, World
-My name is Joshua Carlton
-I have a passion for music production and sound design,
-a fascination for game development
+Hello, World 🌱br>  
+My name is Joshua Carlton <br>
+I have a passion for music production and sound design, <br>
+a fascination for game development <br>
 and am transitioning from web development to explore network security and vulnerabilities
 
 <!---
