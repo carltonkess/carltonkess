@@ -1,8 +1,8 @@
-- 👋 sup?, I’m @carltonkess
-- 👀 I’m interested in ... Web, App, and Game Development, UI/UX, Music production and Sound Design
-- 🌱 I’m currently learning ... HTML, CSS, PHP, JavaScript, Python and eventually C++
-- 💞️ I’m looking to collaborate on ... UI/UX, Game Development, Music and SFX
-- 📫 How to reach me ...
+Hello, World
+My name is Joshua Carlton
+I have a passion for music production and sound design,
+a fascination for game development
+and am transitioning from web development to explore network security and vulnerabilities
 
 <!---
 carltonkess/carltonkess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
